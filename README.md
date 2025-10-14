@@ -5,7 +5,7 @@
 </div>
 
 
-**`Desenvolvedor Full Stack em formação`**
+**`Desenvolvedor FullStack em formação`**
 
 Me chamo Wesley Vitor Mendonça da Silva, tenho 20 anos e sou natural de Recife/PE.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau. Minha paixão por tecnologia é imensa, sou fascinado por tudo que envolve inovação e o futuro digital.
