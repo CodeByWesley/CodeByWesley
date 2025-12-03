@@ -4,11 +4,14 @@
   </a>
 </div>
 
+---
 
 **`Desenvolvedor FullStack em formação`**
 
 Me chamo Wesley Vitor Mendonça da Silva, tenho 20 anos e sou natural de Recife/PE.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau. Minha paixão por tecnologia é imensa, sou fascinado por tudo que envolve inovação e o futuro digital.
+
+---
 
 <p align="left">
     <a href="">
@@ -43,44 +46,58 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Unive
 
 ---
 
-### 🤖 Linguagens e Tecnologias 
-
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<br><br><br>
 
-### 📊 Estatísticas
+---
 
+## 🏅 Bootcamps e Certificações
+
+-  
+- 
+-   
+- 
+
+---
+
+## 📚 Cursos e Trilhas
+
+-
+- 
+- 
+- 
+
+---
+
+## 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CodeByWesley&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
+<br><br><br><br><br><br>
 
-
-
-
-
+---
