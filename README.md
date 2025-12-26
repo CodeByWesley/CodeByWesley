@@ -6,10 +6,14 @@
 
 ---
 
-**`Desenvolvedor FullStack em formação`**
+**`Desenvolvedor Java em formação`**
 
-Me chamo Wesley Vitor Mendonça da Silva, tenho 20 anos e sou natural de Recife/PE.
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau. Minha paixão por tecnologia é imensa, sou fascinado por tudo que envolve inovação e o futuro digital.
+Me chamo **Wesley Vitor Mendonça da Silva**, tenho **20 anos** e sou natural de **Recife/PE**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Maurício de Nassau**.
+
+Sou um **Desenvolvedor Java em formação**, apaixonado por tecnologia e motivado por desafios.  
+
+Estou sempre em busca de aprendizado contínuo, aprimorando minhas habilidades e acompanhando as evoluções do mundo da tecnologia 🚀
 
 ---
 
@@ -50,11 +54,11 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Unive
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <br><br><br>
