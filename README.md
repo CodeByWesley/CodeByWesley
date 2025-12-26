@@ -13,7 +13,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Centro Universi
 
 Sou um **Desenvolvedor Java em formação**, apaixonado por tecnologia e motivado por desafios.  
 
-Estou sempre em busca de aprendizado contínuo, aprimorando minhas habilidades e acompanhando as evoluções do mundo da tecnologia 🚀
+Estou sempre em busca de aprendizado contínuo, aprimorando minhas habilidades e acompanhando as evoluções do mundo da tecnologia. 🚀
 
 ---
 
