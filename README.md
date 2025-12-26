@@ -8,8 +8,8 @@
 
 **`Desenvolvedor Java em formação`**
 
-Me chamo **Wesley Vitor Mendonça da Silva**, tenho **20 anos** e sou natural de **Recife/PE**.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Maurício de Nassau**.
+Me chamo **Wesley Vitor Mendonça da Silva**, tenho **20 anos** e sou natural de **Recife/PE.**
+Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Maurício de Nassau.**
 
 Sou um **Desenvolvedor Java em formação**, apaixonado por tecnologia e motivado por desafios.  
 
