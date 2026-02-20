@@ -92,7 +92,18 @@ Estou sempre em busca de aprendizado contínuo, aprimorando minhas habilidades e
 
 ## 📚 Cursos e Trilhas
 
--
+<p align="left">
+
+<a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank">
+  <img 
+    src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png"
+    height="45px"
+    alt="Introdução a Banco de Dados Relacionais (SQL) - DIO"
+    title="Clique para ver o certificado"
+  />
+</a>
+
+</p>
 - 
 - 
 - 
