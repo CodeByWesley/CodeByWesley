@@ -15,38 +15,7 @@ I am a Java developer in training, passionate about technology and driven by cha
 
 I am constantly learning, improving my skills and exploring new technologies to grow as a developer. 🚀
 
----
 
-<p align="left">
-    <a href="">
-        <img 
-            alt="" 
-            title="" 
-            src=""
-        />
-    </a>
-    <a href="">
-        <img 
-            alt="" 
-            title="" 
-            src=""
-        />
-    </a> 
-    <a href="https://github.com/CodeByWesley?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total stars" 
-            title="GitHub Total Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CodeByWesley?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/CodeByWesley?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CodeByWesley?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
