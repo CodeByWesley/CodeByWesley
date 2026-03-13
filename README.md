@@ -98,8 +98,8 @@ I am constantly learning, improving my skills and exploring new technologies to 
   <img 
     src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png"
     height="45px"
-    alt="Introdução a Banco de Dados Relacionais (SQL) - DIO"
-    title="Introdução a Banco de Dados Relacionais (SQL) - DIO"
+    alt="Introduction to Relational Databases (SQL) - DIO"
+    title="Introduction to Relational Databases (SQL) - DIO"
  
   
 </a>
