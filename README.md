@@ -50,7 +50,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -81,7 +81,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ---
 
-## 🏅 Bootcamps e Certificações
+## 🏅 Bootcamps and Certifications
 
 -  
 - 
@@ -90,7 +90,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ---
 
-## 📚 Cursos e Trilhas
+## 📚 Courses and Learning Paths
 
 <p align="left">
 
@@ -109,7 +109,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p>
   <img 
