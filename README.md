@@ -6,14 +6,14 @@
 
 ---
 
-**`Desenvolvedor Java em formação`**
+**`Java developer in training`**
 
-Me chamo **Wesley Vitor Mendonça da Silva**, tenho **20 anos** e sou natural de **Recife/PE.**
-Atualmente curso **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Maurício de Nassau.**
+My name is Wesley Vitor Mendonça da Silva, I am 20 years old and I am from Recife, Brazil. 
+Currently studying Systems Analysis and Development at Centro Universitário Maurício de Nassau.
 
-Sou um **Desenvolvedor Java em formação**, apaixonado por tecnologia e motivado por desafios.  
+I am a Java developer in training, passionate about technology and driven by challenges.
 
-Estou sempre em busca de aprendizado contínuo, aprimorando minhas habilidades e acompanhando as evoluções do mundo da tecnologia. 🚀
+I am constantly learning, improving my skills and exploring new technologies to grow as a developer. 🚀
 
 ---
 
