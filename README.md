@@ -82,6 +82,15 @@ I am constantly learning, improving my skills and exploring new technologies to 
   
 </a>
 
+<a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank">
+  <img
+    src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw"
+    height="45px"
+    alt="Git and GitHub: First Steps and Environment Setup - DIO"
+    title="Git and GitHub: First Steps and Environment Setup - DIO"
+  />
+</a>
+
 </p>
 
 
