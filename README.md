@@ -15,8 +15,6 @@ I am a Java developer in training, passionate about technology and driven by cha
 
 I am constantly learning, improving my skills and exploring new technologies to grow as a developer. 🚀
 
-
-
 ---
 
 ## 🤖 Languages ​​and Technologies
@@ -52,7 +50,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
     title="Git"
     width="30px" 
     style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <br><br><br>
@@ -61,38 +59,18 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ## 🏅 Bootcamps and Certifications
 
--  
-- 
--   
-- 
+
+
+
 
 ---
 
 ## 📚 Courses and Learning Paths
 
 <p align="left">
-
-<a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank">
-  <img 
-    src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png"
-    height="45px"
-    alt="Introduction to Relational Databases (SQL) - DIO"
-    title="Introduction to Relational Databases (SQL) - DIO"
- 
-  
-</a>
-
-<a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank">
-  <img
-    src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw"
-    height="47px"
-    alt="Git and GitHub: First Steps and Environment Setup - DIO"
-    title="Git and GitHub: First Steps and Environment Setup - DIO"
-  />
-</a>
-
+<a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="45px" alt="Introduction to Relational Databases (SQL) - DIO" title="Introduction to Relational Databases (SQL) - DIO"/></a>
+<a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="47px" alt="Git and GitHub: First Steps and Environment Setup - DIO" title="Git and GitHub: First Steps and Environment Setup - DIO"/></a>
 </p>
-
 
 ---
 
