@@ -6,12 +6,12 @@
 
 ---
 
-**`Java developer in training`**
+**`Java developer`**
 
 My name is Wesley Vitor Mendonça da Silva, I am 20 years old and I am from Recife, Brazil. 
 Currently studying Systems Analysis and Development at Centro Universitário Maurício de Nassau.
 
-I am a Java developer in training, passionate about technology and driven by challenges.
+I am a Java developer, passionate about technology and driven by challenges.
 
 I am constantly learning, improving my skills and exploring new technologies to grow as a developer. 🚀
 
