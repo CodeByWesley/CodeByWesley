@@ -80,22 +80,18 @@ I am constantly learning, improving my skills and exploring new technologies to 
   <img alt="github-snake" src="https://raw.githubusercontent.com/CodeByWesley/CodeByWesley/output/github-snake.svg">
 </picture>
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CodeByWesley&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
+    height="175" 
   />
-
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Top Langs" 
+    height="175" 
   />
-</p>
+</div>
 
 <br><br><br><br><br><br>
 
