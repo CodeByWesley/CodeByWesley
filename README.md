@@ -39,7 +39,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
     align="left" 
     alt="Aiven" 
     title="Aiven"
-    width="30px" 
+    width="38px" 
     style="padding-right: 15px; background-color: transparent;" 
     src="https://github.com/user-attachments/assets/6e2872eb-f12b-4bc8-9033-e985b6bad271" 
 />
