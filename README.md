@@ -15,6 +15,8 @@ I am a Java developer, passionate about technology and driven by challenges.
 
 I am constantly learning, improving my skills and exploring new technologies to grow as a developer. 
 
+
+
 ---
 
 ## 🤖 Languages and Technologies
@@ -95,3 +97,10 @@ I am constantly learning, improving my skills and exploring new technologies to 
 </p>
 
 ---
+<div align="center">
+  <h2>📫 Contato</h2>
+
+  <a href="seu-link-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="seu-link-instagram"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
