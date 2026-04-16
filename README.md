@@ -98,7 +98,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ---
 <div align="center">
-  <h2>📫 Contato</h2>
+  <h2>📫 Let's connect!</h2>
 
   <a href="https://www.linkedin.com/in/wesleymendonca-br" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
