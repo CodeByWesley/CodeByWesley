@@ -17,7 +17,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 
 ---
 
-## 🤖 Languages ​​and Technologies
+## 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -37,13 +37,20 @@ I am constantly learning, improving my skills and exploring new technologies to 
 />
 <img 
     align="left" 
+    alt="Aiven" 
+    title="Aiven"
+    width="30px" 
+    style="padding-right: 15px; background-color: transparent;" 
+    src="https://github.com/user-attachments/assets/6e2872eb-f12b-4bc8-9033-e985b6bad271" 
+/>
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
