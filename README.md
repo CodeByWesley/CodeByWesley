@@ -100,7 +100,7 @@ I am constantly learning, improving my skills and exploring new technologies to 
 <div align="center">
   <h2>📫 Contato</h2>
 
-  <a href="seu-link-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="seu-link-instagram"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wesleymendonca-br" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
