@@ -29,8 +29,7 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 - Designed a conversion-focused landing page to increase customer quotes and store visits.
 - Applied agile (**XP**) methodology and gathered requirements directly with the client.
 - Improved digital presence and customer contact flow
-- Technologies: `HTML` | `CSS` | `JavaScript`
--🔗 Live Demo: https://codebywesley.github.io/ServiceStore-Web/
+- Technologies: `HTML` | `CSS` | `JavaScript` | [Live Demo](https://codebywesley.github.io/ServiceStore-Web/)
 ---
 
 ## ◆ Languages and Technologies
