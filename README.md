@@ -19,8 +19,9 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 ## ◈ Featured Projects
 
 ### ▹ Inkflow
-- Backend-focused project with database deployed on **Aiven**
-- CI/CD pipeline configured with **GitHub Actions**
+- Full-stack scheduling system for a tattoo studio (team project)
+- Contributed to backend development (Java) and led database design and cloud deployment (Aiven)
+- Configured CI/CD pipeline and collaborated with frontend developers
 - Technologies: `Java` | `SQL` | `Cloud`
 
 ### ▹ ServiceStore-Web
