@@ -17,6 +17,13 @@ Currently building real-world projects using Java, SQL and cloud platforms, incl
 
 My goal is to grow as a backend developer and contribute to impactful projects. 
 
+## 🚀 Featured Projects
+
+### 🔹 Inkflow
+- Backend-focused project with database deployed on Aiven
+- CI/CD pipeline configured with GitHub Actions
+- Technologies: Java, SQL, Cloud
+
 
 
 ---
