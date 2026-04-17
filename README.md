@@ -1,38 +1,39 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F7FBFF&width=435&lines=Welcome+to+my+GITHUB+PROFILE!+%3A)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F7FBFF&width=435&lines=Bem-vindo+ao+meu+PERFIL!+%3A)" alt="Typing SVG">
   </a>
 </div>
 
 ---
 
-**`Java Backend Developer | Cloud & SQL`**
+**`Desenvolvedor Java Backend | Cloud & SQL`**
 
-My name is Wesley Vitor Mendonça da Silva, I am 20 years old and I am from Recife, Brazil. 
-Currently studying Systems Analysis and Development at Centro Universitário Maurício de Nassau.
+Meu nome é Wesley Vitor Mendonça da Silva, tenho 20 anos e sou de Recife, Brasil.
+Atualmente, curso Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.
 
-I am a Java backend developer focused on building scalable systems and cloud-based solutions.
-Currently building real-world projects using Java, SQL and cloud platforms, including database deployment and CI/CD pipelines.
+Sou um desenvolvedor backend Java focado na construção de sistemas escaláveis e soluções baseadas em nuvem.
+Desenvolvo projetos reais utilizando Java, SQL e plataformas de nuvem, incluindo implantação de bancos de dados e pipelines de CI/CD.
 
-My goal is to grow as a backend developer and contribute to impactful projects. 
+Meu objetivo é crescer como desenvolvedor backend e contribuir para projetos de impacto.
 
-## ◈ Featured Projects
+## ◈ Projetos em Destaque
 
 ### ▹ Inkflow
-- Full-stack scheduling system for a tattoo studio (team project)
-- Contributed to backend development (Java) and led database design and cloud deployment (Aiven)
-- Configured CI/CD pipeline and supported system integration with frontend developers
-- Technologies: `Java` | `SQL` | `Cloud`
+- Sistema de agendamento completo (Full-stack) para estúdio de tatuagem (projeto em equipe).
+- Contribuí no desenvolvimento backend (Java) e liderei a modelagem de dados e o deploy na nuvem (Aiven).
+- Configurei a pipeline de CI/CD e auxiliei na integração do sistema com os desenvolvedores frontend.
+- Tecnologias: `Java` | `SQL` | `Cloud`
 
 ### ▹ ServiceStore-Web
-- Freelance project developed for a real technical assistance business.
-- Designed a conversion-focused landing page to increase customer quotes and store visits.
-- Applied agile (**XP**) methodology and gathered requirements directly with the client.
-- Improved digital presence and customer contact flow
-- Technologies: `HTML` | `CSS` | `JavaScript` | [Live Demo](https://codebywesley.github.io/ServiceStore-Web/)
+- Projeto freelance desenvolvido para uma assistência técnica real.
+- Criação de uma landing page focada em conversão para aumentar orçamentos e visitas à loja.
+- Aplicação da metodologia ágil (**XP**) e levantamento de requisitos diretamente com o cliente.
+- Melhoria da presença digital e do fluxo de contato com o cliente.
+- Tecnologias: `HTML` | `CSS` | `JavaScript` | [Acesse o Projeto](https://codebywesley.github.io/ServiceStore-Web/)
+
 ---
 
-## ◆ Languages and Technologies
+## ◆ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" title="Java" />&nbsp;
@@ -44,15 +45,15 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 
 ---
 
-## ◈ Courses and Learning Paths
+## ◈ Cursos e Certificações
 
 <p align="left">
-  <a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="55" title="Introdução a Banco de Dados Relacionais (SQL) — Digital Innovation One" alt="SQL Certificate"></a><a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="57" title="Git e GitHub: Primeiros Passos e Configuração do Ambiente — Digital Innovation One" alt="Git Certificate"></a>
+  <a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="55" title="Introdução a Banco de Dados Relacionais (SQL) — Digital Innovation One" alt="Certificado SQL"></a><a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="57" title="Git e GitHub: Primeiros Passos e Configuração do Ambiente — Digital Innovation One" alt="Certificado Git"></a>
 </p>
 
 ---
 
-## ◈ Statistics
+## ◈ Estatísticas
 
 <p align="center">
   <picture>
@@ -70,6 +71,6 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 ---
 
 <div align="center">
-  <h3>Connect with me</h3>
-  <a href="https://drive.google.com/uc?export=view&id=1iK9u8Jl-y7QsLVXC5MXGGmL84Pcu7_f0" target="_blank"><img src="https://img.shields.io/badge/View%20Resume-000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a><a href="https://www.linkedin.com/in/wesleymendoncabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a><a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white"></a><a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white"></a>
+  <h3>Conecte-se comigo</h3>
+  <a href="https://drive.google.com/uc?export=view&id=1iK9u8Jl-y7QsLVXC5MXGGmL84Pcu7_f0" target="_blank"><img src="https://img.shields.io/badge/Ver%20Currículo-000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a><a href="https://www.linkedin.com/in/wesleymendoncabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a><a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white"></a><a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white"></a>
 </div>
