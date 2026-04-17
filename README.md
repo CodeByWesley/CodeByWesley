@@ -11,9 +11,11 @@
 My name is Wesley Vitor Mendonça da Silva, I am 20 years old and I am from Recife, Brazil. 
 Currently studying Systems Analysis and Development at Centro Universitário Maurício de Nassau.
 
-I am a Java developer, passionate about technology and driven by challenges.
+I am a Java developer focused on backend development and cloud technologies.
 
-I am constantly learning, improving my skills and exploring new technologies to grow as a developer. 
+Currently building real-world projects using Java, SQL and cloud platforms, including database deployment and CI/CD pipelines.
+
+My goal is to grow as a backend developer and contribute to impactful projects. 
 
 
 
