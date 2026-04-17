@@ -47,8 +47,7 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 ## ◈ Courses and Learning Paths
 
 <p align="left">
-<a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="45" alt="SQL - DIO"/></a>
-<a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="47" alt="Git/GitHub - DIO"/></a>
+  <a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="55" title="Introdução a Banco de Dados Relacionais (SQL) — Digital Innovation One" alt="SQL Certificate"></a><a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="57" title="Git e GitHub: Primeiros Passos e Configuração do Ambiente — Digital Innovation One" alt="Git Certificate"></a>
 </p>
 
 ---
