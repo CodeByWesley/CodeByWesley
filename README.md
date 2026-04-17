@@ -21,7 +21,7 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 ### ▹ Inkflow
 - Full-stack scheduling system for a tattoo studio (team project)
 - Contributed to backend development (Java) and led database design and cloud deployment (Aiven)
-- Configured CI/CD pipeline and collaborated with frontend developers
+- Configured CI/CD pipeline and supported system integration with frontend developers
 - Technologies: `Java` | `SQL` | `Cloud`
 
 ### ▹ ServiceStore-Web
