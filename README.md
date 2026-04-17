@@ -12,90 +12,47 @@ My name is Wesley Vitor Mendonça da Silva, I am 20 years old and I am from Reci
 Currently studying Systems Analysis and Development at Centro Universitário Maurício de Nassau.
 
 I am a Java developer focused on backend development and cloud technologies.
-
 Currently building real-world projects using Java, SQL and cloud platforms, including database deployment and CI/CD pipelines.
 
 My goal is to grow as a backend developer and contribute to impactful projects. 
 
-## 🚀 Featured Projects
+## ◈ Featured Projects
 
-### 🔹 Inkflow
-- Backend-focused project with database deployed on Aiven
-- CI/CD pipeline configured with GitHub Actions
-- Technologies: Java, SQL, Cloud
+### ▹ Inkflow
+- Backend-focused project with database deployed on **Aiven**
+- CI/CD pipeline configured with **GitHub Actions**
+- Technologies: `Java` | `SQL` | `Cloud`
 
-### 🔹 ServiceStore-Web
-- Freelance project developed for a real technical assistance business
-- Designed a conversion-focused landing page to increase customer quotes and store visits
-- Gathered requirements directly with the client and applied agile (XP) methodology
-- Integrated WhatsApp contact, Google Maps navigation, Instagram presence and review optimization strategies
-- Technologies: HTML, CSS, JavaScript
-
----
-
-## 🤖 Languages and Technologies
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Aiven" 
-    title="Aiven"
-    width="38px" 
-    style="padding-right: 15px; background-color: transparent;" 
-    src="https://github.com/user-attachments/assets/6e2872eb-f12b-4bc8-9033-e985b6bad271" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<br><br><br>
+### ▹ ServiceStore-Web
+- Freelance project developed for a real technical assistance business.
+- Designed a conversion-focused landing page to increase customer quotes and store visits.
+- Applied agile (**XP**) methodology and gathered requirements directly with the client.
+- Technologies: `HTML` | `CSS` | `JavaScript`
 
 ---
 
-## 📚 Courses and Learning Paths
+## ◈ Languages and Technologies
 
 <p align="left">
-<a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="45px" alt="Introduction to Relational Databases (SQL) - DIO" title="Introduction to Relational Databases (SQL) - DIO"/></a>
-<a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="47px" alt="Git and GitHub: First Steps and Environment Setup - DIO" title="Git and GitHub: First Steps and Environment Setup - DIO"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" />&nbsp;
+<img src="https://github.com/user-attachments/assets/6e2872eb-f12b-4bc8-9033-e985b6bad271" width="35" title="Aiven" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30" title="SQL" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
 </p>
 
 ---
 
-## 🏅 Bootcamps and Certifications
+## ◈ Courses and Learning Paths
 
-
+<p align="left">
+<a href="https://hermes.dio.me/certificates/JBWEQCJG.pdf" target="_blank"><img src="https://hermes.dio.me/courses/badge/92b14ead-e8b4-4eca-ab08-6800c8242469.png" height="45" alt="SQL - DIO"/></a>
+<a href="https://hermes.dio.me/certificates/TEQHC3GJ.pdf" target="_blank"><img src="https://assets.dio.me/lQ85EDvhMQr6iq_KoHv3Mxr3M-pD_Sm64cQjWxsiH7M/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNDA2Njg0YTQtMzk2ZC00MTYwLTk0YjktZWFkOTM0ZTE4NTY0LnBuZw" height="47" alt="Git/GitHub - DIO"/></a>
+</p>
 
 ---
 
-## 📊 Statistics
+## ◈ Statistics
 
 <p align="center">
   <picture>
@@ -106,15 +63,15 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByWesley&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByWesley&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByWesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="170" />
 </p>
 
 ---
-<div align="center">
-  <h2>📫 Let's connect!</h2>
 
-  <a href="https://www.linkedin.com/in/wesleymendonca-br" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div align="center">
+  <h3>Connect with me</h3>
+  <a href="https://www.linkedin.com/in/wesleymendonca-br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white"></a>
 </div>
