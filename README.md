@@ -72,7 +72,8 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 
 <div align="center">
   <h3>Connect with me</h3>
-  <a href="https://www.linkedin.com/in/wesleymendonca-br" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="LINK_DO_SEU_PDF_NO_GOOGLE_DRIVE" target="_blank"><img src="https://img.shields.io/badge/Currículo-000?style=flat&logo=microsoft-word&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wesleymendoncabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white"></a>
   <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white"></a>
 </div>
