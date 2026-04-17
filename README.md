@@ -24,11 +24,11 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 - CI/CD pipeline configured with GitHub Actions
 - Technologies: Java, SQL, Cloud
 
-- ### 🔹 ServiceStore-Web
-- Real-world freelance project developed for a local business (technical assistance store)
-- Built a responsive landing page focused on customer conversion and service scheduling
-- Conducted in-person requirements gathering and applied agile (XP) practices
-- Integrated WhatsApp contact, Google Maps and customer review flow
+### 🔹 ServiceStore-Web
+- Freelance project developed for a real technical assistance business
+- Designed a conversion-focused landing page to increase customer quotes and store visits
+- Gathered requirements directly with the client and applied agile (XP) methodology
+- Integrated WhatsApp contact, Google Maps navigation, Instagram presence and review optimization strategies
 - Technologies: HTML, CSS, JavaScript
 
 ---
