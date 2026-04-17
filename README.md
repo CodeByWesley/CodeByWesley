@@ -31,14 +31,14 @@ My goal is to grow as a backend developer and contribute to impactful projects.
 
 ---
 
-## ◈ Languages and Technologies
+## ◆ Languages and Technologies
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" />&nbsp;
-<img src="https://github.com/user-attachments/assets/6e2872eb-f12b-4bc8-9033-e985b6bad271" width="35" title="Aiven" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30" title="SQL" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" title="MySQL" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/6e2872eb-f12b-4bc8-9033-e985b6bad271" width="38" title="Aiven" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="32" title="SQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git" />
 </p>
 
 ---
