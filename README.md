@@ -6,23 +6,24 @@
 
 ---
 
-**`Desenvolvedor Java Backend | Cloud & SQL`**
+**`Analista de Dados Jr | Power BI & Business Intelligence`**
 
 Meu nome é Wesley Vitor Mendonça da Silva, tenho 20 anos e sou de Recife, Brasil.
 Atualmente, curso Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.
 
-Sou um desenvolvedor backend Java focado na construção de sistemas escaláveis e soluções baseadas em nuvem.
-Desenvolvo projetos reais utilizando Java, SQL e plataformas de nuvem, incluindo implantação de bancos de dados e pipelines de CI/CD.
+Sou um estudante focado em Análise de Dados e Business Intelligence, especializado em transformar dados operacionais em painéis estratégicos para tomada de decisão.
+Desenvolvo relatórios interativos e automações utilizando Power BI, DAX e Power Query, com forte atuação em métricas de produtividade, regras de negócio e inteligência temporal (YoY).
 
-Meu objetivo é crescer como desenvolvedor backend e contribuir para projetos de impacto.
+Meu objetivo é aplicar capacidade analítica e modelagem de dados para otimizar processos operacionais e gerar impacto estratégico.
 
 ## ◈ Projetos em Destaque
 
-### ▹ Inkflow
-- Sistema de agendamento completo (Full-stack) para estúdio de tatuagem (projeto em equipe).
-- Contribuí no desenvolvimento backend (Java) e liderei a modelagem de dados e o deploy na nuvem (Aiven).
-- Configurei a pipeline de CI/CD e auxiliei na integração do sistema com os desenvolvedores frontend.
-- Tecnologias: `Java` | `SQL` | `Cloud`
+### ▹ Dashboard de Diligência e Cadastro de Fornecedores (CADFOR)
+- Projeto analítico desenvolvido para a Secretaria de Administração do Governo de Pernambuco.
+- Estruturação de regras de negócio, modelagem de dados e criação de cálculos de inteligência temporal (YoY) em DAX.
+- Mapeamento de volume operacional de processos, contagem de relatórios emitidos e frequência de participação de fornecedores.
+- Configuração de pipeline de dados com atualização agendada e automatizada no Power BI Service.
+- Tecnologias: `Power BI` | `DAX` | `Power Query` | `Google Sheets` | [Acesse o Repositório](https://github.com/CodeByWesley/dashboard-diligencia-cadfor)
 
 ### ▹ ServiceStore-Web
 - Projeto freelance desenvolvido para uma assistência técnica real.
