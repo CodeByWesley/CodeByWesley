@@ -25,12 +25,11 @@ Meu objetivo é aplicar capacidade analítica e modelagem de dados para otimizar
 - Configuração de pipeline de dados com atualização agendada e automatizada no Power BI Service.
 - Tecnologias: `Power BI` | `DAX` | `Power Query` | `Google Sheets` | [Acesse o Repositório](https://github.com/CodeByWesley/dashboard-diligencia-cadfor)
 
-### ▹ ServiceStore-Web
-- Projeto freelance desenvolvido para uma assistência técnica real.
-- Criação de uma landing page focada em conversão para aumentar orçamentos e visitas à loja.
-- Aplicação da metodologia ágil (**XP**) e levantamento de requisitos diretamente com o cliente.
-- Melhoria da presença digital e do fluxo de contato com o cliente.
-- Tecnologias: `HTML` | `CSS` | `JavaScript` | [Acesse o Projeto](https://codebywesley.github.io/ServiceStore-Web/)
+### ▹ **Gestao-escolar-sql**
+  * Projeto de estudo centrado na criação e modelação de um banco de dados relacional para um sistema de gestão escolar.
+  * Estruturação de entidades essenciais como alunos, cursos, turmas e matrículas.
+  * Aplicação de boas práticas de modelagem de dados e scripts SQL para criação de esquemas e consultas.
+  * Tecnologias: `SQL` | `Modelagem de Banco de Dados` | [Acesse o Repositório](https://github.com/CodeByWesley/gestao-escolar-sql)
 
 ---
 
