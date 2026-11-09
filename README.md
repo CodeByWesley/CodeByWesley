@@ -9,9 +9,8 @@
 **`Analista de Sistemas Jr | Analista de Soluções & Dados | Business Intelligence`**
 
 Meu nome é **Wesley Vitor Mendonça da Silva**, sou de Pernambuco, Brasil.
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário Maurício de Nassau (UNINASSAU).
 
-Sou um estudante focado na resolução de problemas de negócio através da tecnologia: identifico necessidades, desenho a arquitetura da solução, desenvolvo assistentes virtuais/chatbots com IA, integro APIs, crio automações de processos e construo dashboards analíticos no Power BI.
+Atuo na resolução de problemas de negócio através da tecnologia: identifico necessidades, desenho a arquitetura da solução, desenvolvo assistentes virtuais/chatbots com IA, integro APIs, crio automações de processos e construo dashboards analíticos no Power BI.
 
 Combino capacidade analítica, visão de produto e desenvolvimento assistido por inteligência artificial (*AI-Assisted Development*) para entregar soluções ponta a ponta com impacto real, visibilidade operacional e redução de custos.
 
