@@ -84,7 +84,7 @@ Meu objetivo é aplicar capacidade analítica e engenharia de soluções para ot
 
 <div align="center">
   <h3>Conecte-se comigo</h3>
-  <a href="https://drive.google.com/file/d/1FoT1qKA6blFg2pSYci4sMKUG_mStzj22/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1Oo3Ac5XK71lwEx_Y6Dw3eUxpo94Hd44T/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/wesleymendoncabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white"></a>
   <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white"></a>
