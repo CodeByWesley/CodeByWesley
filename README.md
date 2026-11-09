@@ -20,9 +20,9 @@ Meu objetivo é aplicar capacidade analítica e engenharia de soluções para ot
 ## ◈ Projetos em Destaque
 
 ### ▹ **Plataforma Web & Assistente Virtual com IA (Harpy.Ai) — JLP**
-- Gestão técnica e infraestrutura digital para comunidade internaciona com ~500 membros (Brasil, Argentina, França)
-- Criação de landing page responsiva com métricas do Google Analytics e formulários integrados por e-mail
-- Desenvolvimento do chatbot **Harpy.Ai** no WhatsApp Business treinado com IA (multilíngue e com limitação de escopo)
+- Gestão técnica e infraestrutura digital para comunidade internacional com ~500 membros (Brasil, Argentina, França).
+- Criação de landing page responsiva com métricas do Google Analytics e formulários integrados por e-mail.
+- Desenvolvimento do chatbot **Harpy.Ai** no WhatsApp Business treinado com IA (multilíngue e com limitação de escopo).
 - Tecnologias: `n8n` | `WARA` | `Render` | `UptimeRobot` | `WhatsApp API` | `Google Analytics` | [Acesse o Site](https://jovenslatinosnapolitica.netlify.app/) | [Teste no WhatsApp](https://wa.me/558183848339) 
 
 ### ▹ **Dashboard de Diligência e Acompanhamento Operacional — Governo de PE**
@@ -43,7 +43,7 @@ Meu objetivo é aplicar capacidade analítica e engenharia de soluções para ot
 
 ### ▹ **Gestao-escolar-sql**
 - Projeto de estudo centrado na criação e modelação de um banco de dados relacional para um sistema de gestão escolar.
-- Estruturação de entidades essenciais como alunos, cursos, turmas e matrículas (`Students`, `Courses`, `Classes`, `Enrollments`)
+- Estruturação de entidades essenciais como alunos, cursos, turmas e matrículas (`Students`, `Courses`, `Classes`, `Enrollments`).
 - Aplicação de boas práticas de modelagem de dados e scripts SQL para criação de esquemas e consultas.
 - Tecnologias: `SQL` | `Modelagem de Banco de Dados` | `MySQL` | [Acesse o Repositório](https://github.com/CodeByWesley/gestao-escolar-sql)
 
@@ -85,7 +85,7 @@ Meu objetivo é aplicar capacidade analítica e engenharia de soluções para ot
 
 <div align="center">
   <h3>Conecte-se comigo</h3>
-  <a href="https://drive.google.com/uc?export=view&id=1iK9u8Jl-y7QsLVXC5MXGGmL84Pcu7_f0" target="_blank"><img src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1FoT1qKA6blFg2pSYci4sMKUG_mStzj22/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Ver%20Curr%C3%ADculo-000?style=flat&logo=adobe-acrobat-reader&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/wesleymendoncabr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/codebywesley" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white"></a>
   <a href="mailto:desenvolvedorwesleymendonca@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white"></a>
