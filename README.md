@@ -22,7 +22,7 @@ Meu objetivo é aplicar capacidade analítica e engenharia de soluções para ot
 - Gestão técnica e infraestrutura digital para comunidade internacional com ~500 membros (Brasil, Argentina, França).
 - Criação de landing page responsiva com métricas do Google Analytics e formulários integrados por e-mail.
 - Desenvolvimento do chatbot **Harpy.Ai** no WhatsApp Business treinado com IA (multilíngue e com limitação de escopo).
-- Tecnologias: `n8n` | `WARA` | `Render` | `UptimeRobot` | `WhatsApp API` | `Google Analytics` | [Acesse o Site](https://jovenslatinosnapolitica.netlify.app/) | [Teste no WhatsApp](https://wa.me/558183848339) 
+- Tecnologias: `n8n` | `WARA` | `Render` | `UptimeRobot` | `WhatsApp API` | `Google Analytics` | [Acesse o Site](https://jovenslatinosnapolitica.netlify.app/) | [Teste o Chatbot](https://wa.me/558183848339) 
 
 ### ▹ **Dashboard de Diligência e Acompanhamento Operacional — Governo de PE**
 - Solução de BI desenvolvida para a Secretaria de Administração do Governo de Pernambuco.
