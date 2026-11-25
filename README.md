@@ -51,9 +51,6 @@ Meu objetivo é aplicar capacidade analítica e engenharia de soluções para ot
 ## ◆ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="32" title="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="32" title="CSS3" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="32" title="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="32" title="Java" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="32" title="Python" />&nbsp;
   <img src="https://img.shields.io/badge/SQL-0078D4?style=flat&logo=microsoftsqlserver&logoColor=white" height="32" title="SQL" />&nbsp;
